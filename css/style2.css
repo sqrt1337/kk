@@ -1,0 +1,111 @@
+body {
+	font-family: arial
+}
+nav {
+	background-color: #1a1a1a;
+	font-size: 30px
+}
+.col {
+	width: inherit;
+	height: 750px;
+}
+.csgo {
+	width: 100%;
+	height: 100%
+}
+.dota {
+	width: 100%;
+	height: 100%
+}
+.hs {
+	width: 100%;
+	height: 100%
+}
+.oborudovanie {
+	margin-right: auto;
+	margin-left: auto;
+}
+.gg {
+	width: 100%;
+	height: 100%;
+}
+.parallax {
+	width: 100%;
+	height: 100%;
+}
+.text {
+	font-size: 15px;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.header {
+	font-size: 25px
+}
+.flex {
+	display: flex
+}
+.margin {
+	margin-left: auto;
+	margin-right: auto;
+}
+.price {
+	background-color: #e0e0e0;
+	width: inherit;
+	height: 250px;
+	text-align: center;
+	font-size: 30px;
+	padding-top: 50px;
+	box-sizing: border-box;
+}
+.btn {
+	margin-top: 50px;
+	background-color: #e0e0e0;
+	border: 1.5px solid black;
+	color: black;
+}
+.footer {
+	background-color: #525252;
+	height: 80px;
+	width: inherit;
+}
+span {
+	position: absolute;
+	top: 100px;
+	left: 100px
+}
+.pricepng {
+	width: 100%;
+	height: 100%
+}
+.pricepng1 {
+	width: 750px;
+	height: 600px;
+	margin-top: 5px
+}
+.pricepng2 {
+	width: 600px;
+	height: 415px
+}
+.games {
+	width: 600px;
+	height: 500px;
+	margin-bottom: 125px;
+}
+.game {
+	width: 100%;
+	height: 100%
+}
+.games h2 {
+	font-size: 30px;
+	font-family: arial
+}
+.gameswow {
+	width: 600px;
+	height: 400px;
+	margin-bottom: 125px;
+}
+.gameswow h2 {
+	font-size: 30px;
+	font-family: arial
+}

@@ -1,0 +1,175 @@
+body {
+    margin: 0;
+}
+.head {
+    height: 125px;
+    background: #363636;
+    color: #03ba03;
+    text-align: center;
+    box-sizing: border-box;
+    padding-left: 20px
+}
+.head h1 {
+    font-size: 50px
+}
+.head p {
+    font-size: 40px;
+    margin-left: 50px
+}
+.body {
+    height: 850px;
+    background-image: url('thumb-1920-474206.jpg');
+    background-size: 100% 100%;
+    padding-top: 30px;
+    box-sizing: border-box;
+}
+.body p {
+    font-size: 25px;
+    color: #03ba03
+}
+.body h1 {
+    font-size: 40px;
+    color: #03ba03
+}
+.column {
+    height: 250px;
+    width: 300px;
+    margin-left: 18px;
+    margin-right: 18px;
+}
+.img {
+    height: 250px;
+    width: 300px
+}
+.flex {
+    display: flex
+}
+.box {
+    text-align: center;
+    color: white;
+    margin-bottom: 40px
+}
+.text {
+    color: #2d2dfc;
+    text-align: center
+}
+.about h1 {
+    font-size: 35px;
+    color: #03ba03
+}
+.about {
+    padding-left: 20px;
+    box-sizing: border-box
+}
+.about li {
+    font-size: 25px;
+    color: #03ba03
+}
+.footer {
+    background: #363636;
+    color: white;
+    height: 100px;
+    padding-top: 30px;
+    box-sizing: border-box
+}
+.footer p {
+    margin-left: auto;
+    margin-right: auto
+}
+.price {
+    margin-left: auto;
+    margin-right: auto
+}
+.main {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1336px
+}
+input {
+    margin: 0px;
+    padding: 4px 6px;
+    background-color: rgba( 0, 0, 0, 0.4 );
+    width: 200px;
+    border-radius: 3px;
+    border: 1px solid #000;
+    margin-bottom: 15px;
+    color: white
+}
+.vvod {
+    padding-left: 20px;
+    box-sizing: border-box;
+    color: white
+}
+.sign {
+    width: 1000px;
+    background: #2ec72e;
+    margin-left: auto;
+    margin-right: auto;
+    height: 250px;
+    box-sizing: border-box
+}
+.sign p {
+    color: white
+}
+button {
+    border: none;
+    border-radius: 5px;
+    padding: 5px 20px;
+    background: #d03131;
+    line-height: 20px
+}
+.vvod p {
+    margin-top: 0;
+    margin: 0
+}
+.signleft {
+    width: 400px;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto
+}
+.signleft h1 {
+    font-size: 30px;
+    color: blue
+}
+.signright h1 {
+    font-size: 30px;
+    color: blue
+}
+.signright {
+    width: 400px;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+     text-align: center
+}
+.signright button {
+    font-size: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.mesta {
+    width: 400px;
+    height: 125px;
+    background-color:#ff5959;
+    margin-left: 60%;
+    font-size: 40px;
+    color: #03ba03;
+    font-family: arial
+}
+.col {
+    height: 600px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: arial;
+    font-size: 35px;
+    color: #ff000a
+}
+.tab {
+    background-color: #61f268;
+    color: #ff000a
+}
